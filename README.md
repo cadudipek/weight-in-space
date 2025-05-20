@@ -24,3 +24,10 @@ Este é um programa simples escrito em Python que permite calcular o peso de uma
 
 ```bash
 git clone https://github.com/cadudipek/weight-in-space.git
+```
+### Passo 2: Abra o terminal e navegue até o diretório do projeto e execute o script Python:
+```bash
+ python3 weight_in_space.py
+```
+O programa irá pedir o peso na Terra e o número do planeta. A partir disso, ele exibirá o peso correspondente no planeta escolhido.
+
