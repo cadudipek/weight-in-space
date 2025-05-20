@@ -1,2 +1,26 @@
-# weight-in-space
-Calculadora simples para converter o peso de uma pessoa na Terra para o peso correspondente em diferentes planetas do Sistema Solar.
+# Weight-in-Space 🚀🌍
+
+Este é um programa simples escrito em Python que permite calcular o peso de uma pessoa em diferentes planetas do Sistema Solar. A partir do peso na Terra, o programa usa os fatores de gravidade dos planetas para calcular o peso correspondente.
+
+## Como Funciona
+
+1. O programa pede o peso da pessoa na Terra.
+2. Em seguida, você escolhe para qual planeta você gostaria de calcular o peso.
+3. O peso será calculado levando em consideração a gravidade do planeta escolhido.
+
+## Planetas Disponíveis
+
+- Mercúrio
+- Vênus
+- Marte
+- Júpiter
+- Saturno
+- Urano
+- Netuno
+
+## Como Usar
+
+### Passo 1: Faça o clone ou baixe o repositório.
+
+```bash
+git clone https://github.com/cadudipek/weight-in-space.git
